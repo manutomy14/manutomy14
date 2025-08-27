@@ -134,7 +134,6 @@ I'm passionate about data science and always interested in discussing new opport
 
 **Contact Information:**
 - 📧 **Email:** iammanutomy@gmail.com
-- 🌐 **Portfolio:** [portfolio.manutomy.com](https://github.com/manutomy14/manutomy14)
 - 💼 **LinkedIn:** [linkedin.com/in/manu-tomy](https://linkedin.com/in/manu-tomy-)
 - 💻 **GitHub:** You're already here!
 
@@ -142,7 +141,7 @@ I'm passionate about data science and always interested in discussing new opport
 
 ## 📈 Current Focus
 
-**2024 Goals:**
+**2025 Goals:**
 - Advance expertise in deep learning and neural networks
 - Complete AWS certification for cloud-based data solutions
 - Contribute to open-source data science projects
